@@ -207,3 +207,12 @@ body {
     font: bold; 
     font-size: larger;
 }
+#skills{
+    font-size: 40px; 
+    margin-top: 70px; 
+    margin-bottom: 40px;
+}
+#imgs{
+    height: 180px; 
+    width: 180px;
+}
