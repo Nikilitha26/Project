@@ -1,0 +1,134 @@
+.custom-image {
+    margin-left: 560px;
+}
+.custom-image2{
+    margin-right: 560px;
+}
+.custom-image3{
+    margin-right: 2px;
+}
+
+#move{
+    margin-left: 150px;
+    margin-right: 130px;
+}
+
+.h2{
+    font-size: 40px; 
+    margin-bottom: 100px;
+    text-align: center; 
+    margin-top: 100px;
+}
+#card-move2{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+    
+}
+#font1{
+    font-style: italic;
+    color: white;
+}
+.card-body{
+    background-color: #BC7FCD;
+    color: white;
+}
+.testi1{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+   margin-left: 110px;
+   background-color: #BC7FCD;
+}
+.card-img-top1{
+    background-color: #BC7FCD;
+}
+.testi2{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+   margin-left: 110px;
+   background-color: #BC7FCD;
+}
+#font2{
+    font-style: italic;
+    color: white;
+}
+#test1{
+    color: white;
+    font-style: italic;
+}
+#test2{
+    color: white;
+    font-style: italic;
+}
+#card1{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+.navbar {
+    background-color: #BC7FCD;
+}
+.navbar-brand img {
+    max-width: 100px;
+    height: auto;
+}
+.bg-image {
+    background-image: url('https://nikilitha26.github.io/Boot-img/Image/OIP.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.profile-name {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#profile-title {
+    color: #720455;
+    font-size: 20px;
+    font-weight: 600;
+}
+.mojFooter {
+    text-align: center;
+    margin-top: 20px;
+}
+#profile-photo {
+    width: 250px;
+    height: 250px;
+    margin-top: 100px;
+    border: 5px solid #FF69B4;
+    border-radius: 50%;
+}
+#niki{
+    width: 108px; 
+    height: 12px; 
+    font-size: 50px; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#text{
+    width: 108px; 
+    height: 12px; 
+    color: black; 
+    font-size: 50px; 
+    font-family: Inter; 
+    font-style: bold; 
+    font-weight: 300; 
+    word-wrap: normal;
+}
+#bgc{
+    background-color: #BC7FCD;
+}
+#bgc1{
+    color: rgb(255, 255, 255);
+}
+#bgc2{
+    color:#BC7FCD ; 
+    background-color: rgb(255, 255, 255) ;
+}
