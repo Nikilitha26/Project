@@ -43,6 +43,11 @@
 .card-img-top1{
     background-color: #BC7FCD;
 }
+
+#card-image {
+    height: auto;
+    width: 300px;
+}
 .testi2{
     width: 100px;
     height: 100px;
@@ -164,7 +169,7 @@ body {
     background-color: #BC7FCD;
 }
 
-/* Profile description */
+
 .profile-description {
     margin-right: 50px;
     font-style: italic;
@@ -216,3 +221,90 @@ body {
     height: 180px; 
     width: 180px;
 }
+#testimonals{
+    font-size: 40px; 
+    margin-top: 70px; 
+    margin-bottom: 40px;
+}
+#projects{
+    font-size: 40px; 
+    margin-top: 70px; 
+    margin-bottom: 40px;}
+#contacts{
+    font-size: 40px; 
+    margin-top: 70px; 
+    margin-bottom: 40px;
+}
+#h6{
+    font-style: italic;
+    color: white;
+}
+.bg-image1 {
+    background-image: url('https://nikilitha26.github.io/Boot-img/Image/OIP.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 260vh;
+}
+#icon{
+    width: 80px; 
+    height: 80px; 
+    margin-right: 150px;
+}
+#icon2{
+    width: 80px; 
+    height: 80px; 
+    margin-left:150px ;
+}
+#row{
+    margin-left: 150px;
+}
+#pic1{
+    height: 60px;
+    margin-left: 60px;
+}
+#pic2{
+    height: 100px;
+    margin-left: 50px;
+}
+#pic3{
+    height: 70px;
+    margin-left: 70px;
+}
+#pic4{
+    height: 100px;
+    margin-left: 60px;
+}
+#pic5{
+    height: 1px;
+    margin-left: 60px;
+}
+#pic5{
+    height: 100px;
+    margin-left: 60px;
+}
+#pic6{
+    height: 1px;
+}
+#forms{
+    font-style: italic;
+}
+button{
+    background: #BC7FCD;
+}
+#back{
+    background-size: cover;
+}
+.thebuttons{
+    display: flex;
+    justify-content: space-around;
+  }
+  #btn{
+    background-color: #BC7FCD;
+    color: white;
+  }
+  #copy{
+    margin-top: 7px; 
+    align-content: center;
+    color: black;
+  }
+  
